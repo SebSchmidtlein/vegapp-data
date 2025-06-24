@@ -1,0 +1,10 @@
+ID;SHORTNAME;NAME;VISIBLE;HEIGHT1;HEIGHT2;MORE;REMARKS;FIELD1;FIELD2
+1;t1;tier 1;FALSE;25;;Non-standard tier to deal with isolated occurrences of tall plants. Minimum height: 25 m;Recce;field1 info for later;field2 info for later
+2;t2;tier 2;FALSE;12;25;Non-standard tier to deal with isolated occurrences of tall plants. Height 12 m to 25 m.;Recce;field1 info for later;field2 info for later
+3;t3;tier 3;TRUE;5;12;Height 5 m to 12 m;Recce;field1 info for later;field2 info for later
+4;t4;tier 4;TRUE;2;5;Height 2 m to 5 m;Recce;field1 info for later;field2 info for later
+5;t5A;tier 5A;TRUE;1;2;Height 1 m to 2 m;Recce;field1 info for later;field2 info for later
+6;t5B;tier 5B;TRUE;0.3;1;Height 0.3 m to 1 m;Recce;field1 info for later;field2 info for later
+7;t6A;tier 6A;TRUE;0.1;0.3;Height 0.1 m to 0.3 m;Recce;field1 info for later;field2 info for later
+8;t6B;tier 6B;TRUE;;0.1;Maximum height 0.1 m;Recce;field1 info for later;field2 info for later
+9;t7;Epiphytes;TRUE;;;Epiphytes (at any height);Recce;field1 info for later;field2 info for later

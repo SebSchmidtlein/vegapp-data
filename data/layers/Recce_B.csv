@@ -1,0 +1,8 @@
+ID;SHORTNAME;NAME;VISIBLE;HEIGHT1;HEIGHT2;MORE;REMARKS;FIELD1;FIELD2
+1;t1;tier 1;TRUE;25;;;Non-standard tier to deal with isolated occurrences of plants taller than 25 m;field1 info for later;field2 info for later
+2;t2;tier 2;TRUE;12;25;;Non-standard tier to deal with isolated occurrences of plants taller than 12 m;field1 info for later;field2 info for later
+3;t3;tier 3;TRUE;5;12;;;field1 info for later;field2 info for later
+4;t4;tier 4;TRUE;2;5;;;field1 info for later;field2 info for later
+5;t5;tier 5;TRUE;0.3;2;;;field1 info for later;field2 info for later
+6;t6;tier 6;TRUE;;0.3;;;field1 info for later;field2 info for later
+7;t7;Epiphytes;TRUE;;;Epiphytes (at any height);;field1 info for later;field2 info for later

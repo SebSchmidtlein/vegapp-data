@@ -1,0 +1,14 @@
+ID;SHORTNAME;NAME;VISIBLE;HEIGHT1;HEIGHT2;MORE;REMARKS;FIELD1;FIELD2
+1;t1;Trees >30 m;TRUE;30;;;;field1 info for later;field2 info for later
+2;t2;Trees 10-30 m;TRUE;10;30;;;field1 info for later;field2 info for later
+3;t3;Trees <10 m;TRUE;;10;;;field1 info for later;field2 info for later
+4;ma;Mallee;TRUE;;;;;field1 info for later;field2 info for later
+5;s1;Shrubs >2 m;TRUE;2;;;;field1 info for later;field2 info for later
+6;s2;Shrubs 1-2 m;TRUE;1;2;;;field1 info for later;field2 info for later
+7;s3;Shrubs <1m;TRUE;;1;;;field1 info for later;field2 info for later
+8;hu;Hummock grass;TRUE;;;;;field1 info for later;field2 info for later
+9;tu;Tussock grass;TRUE;;;;;field1 info for later;field2 info for later
+10;bu;Bunch grass;TRUE;;;;;field1 info for later;field2 info for later
+11;se;Sedges;TRUE;;;;;field1 info for later;field2 info for later
+12;ru;Rushes;TRUE;;;;;field1 info for later;field2 info for later
+13;h;Herbs;TRUE;;;;;field1 info for later;field2 info for later
