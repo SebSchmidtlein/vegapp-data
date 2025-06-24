@@ -1,3 +1,3 @@
 # vegapp-data
 
-This repository contains data for the operation of Vegapp. When using this data, you must observe the licence information contained therein.
+This repository contains data for the operation of Vegapp. Observe the license information contained in the files when using this data.
