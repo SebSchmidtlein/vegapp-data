@@ -1,0 +1,5 @@
+LAYERSYSTEM;LINK;DESCRIPTION
+No Layers;/noLayers.csv;No vertical differentiation
+Recce (a);/Recce_A.csv;R.B. Allen (1992): RECCE An inventory method for describing New Zealand vegetation: A field manual. Manaaki Whenua - Landcare Research, Christchurch, NZ
+Recce (b);/Recce_B.csv;R.B. Allen (1992): RECCE An inventory method for describing New Zealand vegetation: A field manual. Manaaki Whenua - Landcare Research, Christchurch, NZ
+Australia SW; https://www.vegapp.de/data/layers/Shane_1.csv;Turboveg-style
