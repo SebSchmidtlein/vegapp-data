@@ -14,6 +14,7 @@ Italy (2024);/Italy_2024.zip
 New Caledonia;/New_Caledonia.zip
 New Zealand;/New_Zealand.zip
 North America;/North_America.zip
+Poland;Poland.zip
 South Africa;/South_Africa.zip
 Spain;/Spain.zip
 Switzerland;/Switzerland.zip
