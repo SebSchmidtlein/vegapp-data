@@ -1,4 +1,5 @@
 CHECKLIST;LINK
+Australia;/Australia.zip
 Austria;/Austria.zip
 Britain and Ireland;/Britain_Ireland.zip
 Cantabrian Mts;/Cantabrian_Mts.zip
