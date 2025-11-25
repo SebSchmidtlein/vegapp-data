@@ -1,6 +1,7 @@
 CHECKLIST;LINK
 Australia;/Australia.zip
 Austria;/Austria.zip
+Austria Stapfia;/Austria_Stapfia.zip
 Britain and Ireland;/Britain_Ireland.zip
 Cantabrian Mts;/Cantabrian_Mts.zip
 Czech Rep_Danih;/Czech_Republic.zip
