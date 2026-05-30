@@ -3,11 +3,13 @@ Australia;/Australia.zip
 Austria;/Austria.zip
 Britain and Ireland;/Britain_Ireland.zip
 Cantabrian Mts;/Cantabrian_Mts.zip
+Crete;/Crete.zip
 Czech Rep_Danih;/Czech_Republic.zip
 Czech Rep_Kubat;/Czech_Republic_Kubat.zip
 Euro+Med;/EuroMed.zip
 France;/France.zip
 Germany;/GermanSL.zip
+Greece;/Greece.zip
 Hawaii;/Hawaii.zip
 Italy (2018);/Italy_2018.zip
 Italy (2024);/Italy_2024.zip
