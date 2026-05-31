@@ -22,3 +22,4 @@ Portugal;/Portugal.zip
 South Africa;/South_Africa.zip
 Spain;/Spain.zip
 Switzerland;/Switzerland.zip
+Ukraine;/Ukraine.zip
